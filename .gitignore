@@ -1,0 +1,24 @@
+# General
+*.log
+*.tmp
+*.bak
+
+# Python (if applicable)
+__pycache__/
+*.py[cod]
+*.pyc
+venv/
+
+# Node.js (if applicable)
+node_modules/
+npm-debug.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Build/output files
+dist/
+build/
+*.exe
+*.out
